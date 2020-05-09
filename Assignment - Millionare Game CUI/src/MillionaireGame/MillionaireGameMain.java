@@ -8,7 +8,9 @@ import java.io.IOException;
 import java.util.Scanner;
 
 /**
- * @author Paul
+ *
+ * @author Paul Vu 17981406, Peter Ho 17978553
+ * 
  */
 public class MillionaireGameMain {
     //this class holds main function which creates instaces
