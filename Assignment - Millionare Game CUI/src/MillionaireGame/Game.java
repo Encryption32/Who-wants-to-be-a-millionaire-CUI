@@ -9,7 +9,7 @@ import java.util.Scanner;
 import java.util.concurrent.TimeUnit;
 /**
  *
- * @author Paul Vu 17981406, Peter Ho 
+ * @author Paul Vu 17981406, Peter Ho 17978553
  * 
  */
 public class Game {
